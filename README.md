@@ -21,3 +21,4 @@ this is second line
 
 This also does __bold Text__
 
+Italicize *this*
