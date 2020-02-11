@@ -14,7 +14,7 @@ Heading Level 2
 ---------------
 
 
-this is a first line
+this is a first line 
 this is second line
 
 **Bold Text
@@ -22,3 +22,5 @@ this is second line
 This also does __bold Text__
 
 Italicize *this*
+
+***This is bold italicize***
