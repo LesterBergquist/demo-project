@@ -14,6 +14,6 @@ Heading Level 2
 ---------------
 
 
-this is a first ine 
-this is second line
+this is a first line 
+ this is second line
 
