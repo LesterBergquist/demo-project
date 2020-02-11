@@ -14,6 +14,10 @@ Heading Level 2
 ---------------
 
 
-this is a first line 
- this is second line
+this is a first line
+this is second line
+
+**Bold Text
+
+This also does __bold Text__
 
