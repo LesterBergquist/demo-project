@@ -14,7 +14,7 @@ Heading Level 2
 ---------------
 
 
-this is a first line 
+this is a first line  
 this is second line
 
 **Bold Text
@@ -25,4 +25,12 @@ Italicize *this*
 
 ***This is bold italicize***
 
-> This is a Block Quote <
+> This is a Block Quote
+
+> this is a chunk of text
+>
+> more text
+
+This is an example of a nested quote
+
+>> this one is nested
